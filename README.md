@@ -10,7 +10,7 @@ interface e recursos de alinhamento.
 
 	 É a propriedade que estabelece o eixo principal do container, definindo assim a direção que os flex items são colocados no flex container. 
 
-	 **Os eixos**
+	 Os eixos
 
 	. row( padrão ): à direção do texto, esquerda para direita 
 	. row-reverse: sentido oposto à direção do texto
