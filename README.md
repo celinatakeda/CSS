@@ -8,7 +8,8 @@ interface e recursos de alinhamento.
 
 . flex-direction
 
-	 É a propriedade que estabelece o eixo principal do container, definindo assim a direção que os flex items são colocados no flex container. 
+	É a propriedade que estabelece o eixo principal do container, definindo assim a direção que os flex items são colocados 
+	no flex container. 
 
 	 Os eixos
 
@@ -25,20 +26,22 @@ interface e recursos de alinhamento.
 	
 	. nowrap: é o padrão, não permite a quebra de linha. 
 	. wrap: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado.	
-	. wrap-reverse: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado, porém na direção contrária da linha, acima. 
+	. wrap-reverse: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado, porém na direção 
+	contrária da linha, acima. 
 
 
 . flex-flow
 
 	É um atalho para as propriedades flex-direction e flex-wrap. 
 
-	Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap. 
+	Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do 
+	flex-wrap que é nowrap. 
 
 
 . justify-content
 
-	Essa propriedade vai se encarregar de alinhar os itens dentro do container de acordo com a direção pretendida e tratar da distribuição 
-	de espaçamento entre eles. 
+	Essa propriedade vai se encarregar de alinhar os itens dentro do container de acordo com a direção pretendida e tratar 
+	da distribuição de espaçamento entre eles. 
 	OBS: caso seus itens esteja ocupando 100% de todo o container, ela não se aplica
 
 . align-items
