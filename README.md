@@ -46,15 +46,44 @@ interface e recursos de alinhamento.
 
 . align-items
 
+	Trata do alinhamento dos flex itens de acordo com o eixo do container. 
+	O alinhamento é diferente para quando os itens estão em colunas ou linhas. 
+	Permite o alinhamento central no eixo vertical.
+
+	Tipos de alinhamento 
+	● center: alinhamento dos itens ao centro 
+	● stretch: padrão, e os flex itens cresçam igualmente 
+	● flex-start: alinhamento dos itens no início 
+	● flex-end: alinhamento dos itens no final 
+	● baseline: alinhamento de acordo com a linha base da tipografia dos itens
+
 . align-content
 
+	É a propriedade responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container. 
+
+	Tipos de alinhamento 
+	● center: alinhamento dos itens ao centro 
+	● stretch: é o padrão e os flex itens crescem igualmente 
+	● flex-start: alinhamento dos itens no início 
+	● flex-end: alinhamento dos itens no final 
+	● space-between: cria um espaçamento igual entre os elementos 
+	● space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
+
 . flex-grow
+
+	Define a proporcionalidade de crescimentos dos itens, respeitando o tamanho de seus conteúdos internos. 
+	
+	OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container
 
 . flex-basis
 
 . flex-shrink
 
-. flex
+	É a propriedade que estabelecer a capacidade de redução ou compressão do tamanho de um item.
+
+. flex 
+
+	Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
 
 . order
 
