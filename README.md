@@ -94,7 +94,18 @@ interface e recursos de alinhamento.
 	Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
 
 . order
+	Propriedade para fazer a ordenação dos items 
 
 . align-self
+
+	É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item.
+
+	Valores possíveis 
+	● auto: valor padrão, irá respeitar a definição de align-items do container 
+	● flex-start: ao início do container 
+	● flex-end: ao final do container 
+	● center: relativo ao centro de acordo com o eixo 
+	● stretch: ocupa todo os espaço relativo 
+	● baseline: utiliza a linha base da tipografia
 
 
