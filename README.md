@@ -1,4 +1,4 @@
-# Evoluindo no CSS
+# Flexbox em CSS
 
 Foi projetado como um modelo de layout unidimensional e como um método que pode oferecer distribuição de espaço entre itens em uma 
 interface e recursos de alinhamento. 
