@@ -1,20 +1,11 @@
-* {
-    font-family: sans-serif;
+
+img {
+    width: 30%;
+    height: auto;
 }
-.container {
+.gallery {
     display: flex;
-    gap: 1rem;
-}
-
-aside, main {
-    border: 1px solid;
-    height: 95vh;
-}
-
-aside {
-    flex-basis: 25%;
-}
-
-main {
-    flex: 1;
+    flex-wrap: wrap;
+    gap: .8rem;
+    justify-content: center;
 }
