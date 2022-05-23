@@ -1,5 +1,5 @@
 ## Desafio: Header Menu Navigation
-Crie "<header>" de um site que contenha uma logo e um menu.
+Crie header de um site que contenha uma logo e um menu.
 
 Um elemento deverá ficar ao lado do outro.
 
