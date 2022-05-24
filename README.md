@@ -94,6 +94,7 @@ interface e recursos de alinhamento.
 	Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
 
 . order
+
 	Propriedade para fazer a ordenação dos items 
 
 . align-self
